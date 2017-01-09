@@ -1,5 +1,5 @@
 /**
- * @author karine Or 310261243
+ * @author karine 
  * Description : This class represents a set of 4 colored bulbs. 
  */
 public class Disco {
