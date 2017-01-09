@@ -1,5 +1,5 @@
-/**@author karine Or
- * ID 310261243
+/**@author karine  
+ *  
  * Description : class LightBulb , consists of a color and state which defines if the bulb is switched on or off. 
  */
 public class LightBulb {
