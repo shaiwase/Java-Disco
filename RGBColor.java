@@ -1,5 +1,5 @@
 /**
- * @author karine Or 310261243
+ * @author karine 
  * Description : This class represents a color, defined by its red, green and blue components. 
  */
 
